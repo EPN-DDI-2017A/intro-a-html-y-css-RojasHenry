@@ -1,0 +1,95 @@
+body{
+    background-color: grey;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+h1{
+    color: white;
+    margin-bottom: 0px;
+}
+
+h2{
+    margin-top: 0px;
+    color: lightgray;
+}
+
+a{
+    color: orange;
+}
+
+.marco{
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+}
+
+.menu{
+    background-color: orange;
+}
+
+.menu li{
+    color: white;
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.menu ul{
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+footer{
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.contenido th{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 0;
+    text-align: justify;
+    font-weight: normal;
+    width: 70%;
+    vertical-align: top;
+    font-size: 20px;
+}
+
+.contenido img{
+    max-width: 800px;
+    max-height: 800px;
+    border: 1px solid grey;
+}
+
+.contenido h1{
+    color: orange;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.contenido a{
+    color: orange;
+}
+
+.contenido td{
+    text-align: center;
+    vertical-align: center;
+    border-left: 1px solid;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.contenido td h1{
+    text-align: left;
+    color: dimgrey;
+    border-bottom: 0px solid orange;
+    
+}
+
+.contenido td li{
+    text-align: left;
+    list-style: none;
+    color: orange;
+}
